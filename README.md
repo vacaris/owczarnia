@@ -12,7 +12,7 @@ samodzielnie zmieniać parametry układu, obserwować działanie symulacji agent
 oraz przeglądać warianty analizowane w skali budynku i osadnictwa.
 
 **Wersja online:**  
-https://<nazwa-uzytkownika>.github.io/<nazwa-repozytorium>/
+https://vacaris.github.io/owczarnia/
 
 ## Co można zobaczyć na stronie
 
